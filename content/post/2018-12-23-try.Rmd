@@ -1,8 +1,0 @@
----
-title: "My first attempt to create a post"
-output: html_document
----
-
-## R Markdown
-
-first try 
