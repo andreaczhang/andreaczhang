@@ -7,10 +7,10 @@ weight = 20  # Order that this section will appear.
 date = 2016-04-20T00:00:00
 
 title = "Posts"
-subtitle = "more"
+subtitle = " "
 
 # Number of recent posts to list.
-count = 5
+count = 3
 
 # List format.
 #   0 = Simple

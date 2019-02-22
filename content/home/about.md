@@ -30,11 +30,10 @@ weight = 5
 
 I am a PhD candidate at the Department of Biostatistics, University of Oslo, Norway. My current work is focused on Electronic Health Records. To be more specific, I want to carry out variable selection task on medical time series and make interpretable predictions. 
 
-A package to carry out this task is under development. 
 
 
 
 
 
 
-In my free time I like cooking. 
+In my free time I like cooking, and my favorites are Sichuan Foods. 
