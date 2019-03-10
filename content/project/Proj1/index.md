@@ -44,5 +44,4 @@ url_code = ""
 
 
 
-
 Many models can make accurate predictions using temporal data, such as classic time series models including ARIMA, and deep learning methods including recurrent neural networks. Such models are usually seen as blackboxes as we have limited insights on which inputs are important to produce the outcome, and if the outcome is unwanted what interventions can be done to change it. In this paper we introduce an interveneable prediction framework applied to time lagged regression. It is a two step approach: in the first step important time series covariates are selected using a hierarchical lasso penalty, and in the second step we use the residuals and the historical lags of the response to improve the prediction made in the first step. We illustrate our model with both a simulation study and a real data example, using Electronic Health Records data to predict Hospital Acquired Infection.
