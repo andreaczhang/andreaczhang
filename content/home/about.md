@@ -6,8 +6,6 @@ date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
-
-
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
 #  course = "PhD in Biostatistics"
@@ -28,9 +26,7 @@ weight = 5
 
 # About me 
 
-I am a PhD candidate at the Department of Biostatistics, University of Oslo, Norway. My current work is focused on Electronic Health Records. To be more specific, I want to carry out variable selection task on medical time series and make interpretable predictions. 
-
-
+I am a PhD candidate at the Department of Biostatistics, University of Oslo, Norway. My current work is focused on Electronic Health Records. I want to make use of the heterogenous medical time series and understand patient characteristic, and predict certain clinical outcomes.
 
 
 
