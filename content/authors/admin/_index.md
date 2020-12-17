@@ -41,8 +41,8 @@ superuser: true
 title: Nelson Bighetti
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher at the Department of Infectious Disease Epidemiology and Modeling, Norwegian Institute of Public Health (Folkehelseinstitutte). I mostly work on the development of an open-source health surveillance system, [Sykdomspulsen](https://www.fhi.no/hn/statistikk/sykdomspulsen/sykdomspulsen/). In addition I maintain and develop several R packages including [fhidata](https://github.com/folkehelseinstituttet/fhidata), [fhimaps](https://github.com/folkehelseinstituttet/fhimaps), [fhiplot](https://github.com/folkehelseinstituttet/fhiplot). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the meantime I am a PhD student at the Oslo Center for Biostatistics and Epidemiology, University of Oslo, Norway. My PhD work is focused on Electronic Health Records, generated from hospitals in particular. My current research interest is the use of EHR data for patient transfer tracking and visualisation with networks. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In my free time I like cooking and my favorites are Sichuan Foods. During the covid19 pandemic my new hobby is the Nintendo Switch game Animal Crossing: New Horizon.  
