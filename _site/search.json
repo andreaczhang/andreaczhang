@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-24T14:16:35+01:00"
+    },
+    {
+      "path": "doc1.html",
+      "title": "try",
+      "description": "attempt",
+      "author": [],
+      "date": "12/23/2020",
+      "contents": "\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nwrite\n\n\n\n\n\n\n",
+      "last_modified": "2020-12-24T14:16:36+01:00"
+    },
+    {
+      "path": "doc2.html",
+      "title": "Untitled",
+      "author": [],
+      "contents": "",
+      "last_modified": "2020-12-24T14:16:39+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Sykdomspulsen",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-24T14:16:40+01:00"
+    }
+  ],
+  "collections": []
+}
