@@ -1,10 +1,28 @@
 ---
-title: "About this site"
+title: "About"
 description: |
-  Some additional details about the website
+  Some additional details about me the website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## More about me 
+
+I am originally from Xi'an, China. I received my MSc in Statistics from Imperial College London in 2016, then started my PhD at Oslo Center for Biostatistics and Epidemiology, University of Oslo, Norway. 
+
+I have recently (October 2020) joined the Department of Infectious Diseases Epidemiology and Modeling at Norwegian Institute of Public Health (Folkehelseinstittutet) as a researcher. My team works on real time surveillance system, Sykdomspulsen. 
+
+Outside work I enjoy traveling and hiking. Due to the ongoing covid pandemic, I started and became an avid player of the Nintendo game: Animal Crossing New Horizon. 
+
+
+## More about the site
+
+This site is the 2nd version (using distill) since I started using R to build websites, the 1st being blogdown. There are two reasons for switching: 
+
+1. My old blogdown site used the famous theme academic, yet I found it overly **complicated** to have a simple layout.
+
+2. The new package distill only offers one theme, yet I could still change the color and fonts (which are enough!) For simplicity, it is time to switch. 
+
 
