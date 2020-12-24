@@ -1,20 +1,28 @@
-name: "distill-spuls"
-title: "Sykdomspulsen"
+name: "Chi Zhang"
+title: "Chi Zhang"
 description: |
-  Sykdomspulsen
+  Personal website of Chi Zhang
 output_dir: "_site"
+theme: theme.css
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Documentation"
+      
+    - text: "Posts"
       menu:
-        - text: "Doc1"
-          href: doc1.html
-        - text: "Doc2"
-          href: doc2.html
-    - text: "Examples"
-      href: example.html
-    - text: "About"
+        - text: "Set up your first distill site"
+          href: post-2020-12-24-set-up.html
+
+    - text: "Projects"
+      menu:
+        - text: "EHR"
+          href: project_ehr.html
+        - text: "Folkehelseinstituttet"
+          href: project_fhi.html
+
+    - text: "Publications"
+      href: publication.html
+    - text: "About me"
       href: about.html
 output: distill::distill_article

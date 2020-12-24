@@ -1,0 +1,29 @@
+--- 
+title: EHR projects
+description: This is a brief introduction of my PhD projects on Electronic Health Records
+date: "12/23/2020"
+---
+
+
+For my PhD, I work on EHR (Electronic Health Records) data. The data sources ... 
+
+
+*NOTE: The content will be filled in soon.*
+
+## DTW project 
+
+
+This is a project 
+
+
+
+## Patient transfer project 
+
+
+
+
+
+## HAI project 
+
+
+

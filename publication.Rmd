@@ -1,0 +1,22 @@
+--- 
+title: Publications
+description: Here is a list of some of my publications.
+date: "12/23/2020"
+---
+
+
+#### 2020
+
+**Feature extraction from unequal length heterogeneous EHR time series via dynamic time warping and tensor decomposition** (In *Data Mining and Knowledge Discovery*) (To appear)
+  
+<span style = "color:grey">Chi Zhang, Hadi Fanaee-T, Magne Thoresen</span>
+
+
+
+
+#### 2018
+**A questionnaire using vocal symptoms in quality control of phonosurgery:  vocal surgical questionnaire.** (In *Ear, Nose and Throat Disorders*, BMC) ([url](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003120/pdf/12901_2018_Article_57.pdf), [doi](https://doi.org/10.1186/s12901-018-0057-0))
+
+<span style = "color:grey">Aleksander Grande Hansen, Chi Zhang, Jens Øyvind Loven, Hanne Berdal-Sørensen, Magnus TarAngen, Rolf Haye</span>
+
+  
