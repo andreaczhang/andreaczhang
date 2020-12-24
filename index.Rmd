@@ -1,14 +1,3 @@
 ---
-title: "Chi Zhang"
-description: |
-  Welcome to the website. I hope you enjoy it!
-site: distill::distill_website
+site: blogdown:::blogdown_site
 ---
-
-
-
-
-This is the homepage
-
-This is a figure
-![pic1](image/calicopuff3.jpeg)
