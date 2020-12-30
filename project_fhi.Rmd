@@ -1,8 +1,31 @@
 --- 
-title: Projects Folkehelseinstittutet
-description: my FHI projects
+title: FHI projects
+description: Projects that I work on at the Norwegian Institute of Public Health (FHI)
 date: "12/23/2020"
 ---
 
+## Sykdomspulsen
 
-Description of FHI projects
+I joined the Department of Infectious Diseases Epidemiology and Modeling in October 2020. I work on the real time surveillance system, Sykdomspulsen, which links hundreds of national registries on infectious diseases to inform local municipality doctors on current outbreaks. At this very moment, the most severe outbreak is still Covid-19; in addition we also inform about other respiratory diseases, symptoms and gastrointestinal infections.  
+
+See [here](https://www.fhi.no/hn/statistikk/sykdomspulsen/sykdomspulsen/) for the description in Norwegian at the FHI website. Currently we are still improving the documentation with examples in English of Sykdomspulsen. [Here](https://sykdomspulsen-dokumentasjon.no) is an working description.
+
+
+## FHI packages
+
+Our team also develops open-source R packages. Here are a few that I have been working on: 
+
+- [fhidata](https://github.com/folkehelseinstituttet/fhidata) provides structural data for Norway including population since 2006, municipality/county/region correspondence, redistribution information. In addition, it also provides population data for the Nordic countries. 
+
+
+- [fhimaps](https://github.com/folkehelseinstituttet/fhimaps) provides map data for Norway at bydel (city districts), municipality, county, regional levels. 
+
+
+- [fhiplot](https://github.com/folkehelseinstituttet/fhiplot) provide color palettes, plot templates and styles for figures used for reporting. 
+
+
+For a complete list of open-source R packages developed by our team, please see our [github](https://github.com/folkehelseinstituttet). 
+
+
+
+
