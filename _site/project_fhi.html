@@ -85,9 +85,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>Chi Zhang: Projects Folkehelseinstittutet</title>
+  <title>Chi Zhang: FHI projects</title>
 
-  <meta property="description" itemprop="description" content="my FHI projects"/>
+  <meta property="description" itemprop="description" content="Projects that I work on at the Norwegian Institute of Public Health (FHI)"/>
 
 
   <!--  https://schema.org/Article -->
@@ -95,22 +95,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <meta property="article:created" itemprop="dateCreated" content="2020-12-23"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Chi Zhang: Projects Folkehelseinstittutet"/>
+  <meta property="og:title" content="Chi Zhang: FHI projects"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="my FHI projects"/>
+  <meta property="og:description" content="Projects that I work on at the Norwegian Institute of Public Health (FHI)"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Chi Zhang"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Chi Zhang: Projects Folkehelseinstittutet"/>
-  <meta property="twitter:description" content="my FHI projects"/>
+  <meta property="twitter:title" content="Chi Zhang: FHI projects"/>
+  <meta property="twitter:description" content="Projects that I work on at the Norwegian Institute of Public Health (FHI)"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date"]}},"value":[{"type":"character","attributes":{},"value":["Projects Folkehelseinstittutet"]},{"type":"character","attributes":{},"value":["my FHI projects"]},{"type":"character","attributes":{},"value":["12/23/2020"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date"]}},"value":[{"type":"character","attributes":{},"value":["FHI projects"]},{"type":"character","attributes":{},"value":["Projects that I work on at the Norwegian Institute of Public Health (FHI)"]},{"type":"character","attributes":{},"value":["12/23/2020"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2139,7 +2139,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-color:       #FFFFFF;                   /* edited */
     --text-size:        20px;                      /* edited */
     --hover-color:      #383838;                   /* edited */
-    --bkgd-color:       rgb(77, 168, 7);          /* edited */
+    --bkgd-color:       rgb(7, 157, 168);          /* edited */
   }
   .distill-site-footer {
     --text-color:       rgba(255, 255, 255, 0.8);
@@ -2157,13 +2157,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   d-article p code {
     color: #383838;
-    background: rgba(77, 168, 7, 0.1);
+    background: rgba(7, 157, 168, 0.1);
     font-weight: 400;
     font-size: 0.9em;
   }
 
   d-article a {
-      border-bottom: 2px solid rgba(77, 168, 7, 0.4);
+      border-bottom: 2px solid rgba(7, 157, 168, 0.4);
       text-decoration: none;
   }
 
@@ -2172,7 +2172,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   ul > li::marker {
-    color: rgb(77, 168, 7);
+    color: rgb(7, 157, 168);
   }</style>
   <style type="text/css">
   /* base style */
@@ -2338,7 +2338,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Projects Folkehelseinstittutet","description":"my FHI projects","authors":[],"publishedDate":"2020-12-23T00:00:00.000+00:00"}
+{"title":"FHI projects","description":"Projects that I work on at the Norwegian Institute of Public Health (FHI)","authors":[],"publishedDate":"2020-12-23T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2382,15 +2382,25 @@ Projects
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Projects Folkehelseinstittutet</h1>
+<h1>FHI projects</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>my FHI projects</p>
+<p>Projects that I work on at the Norwegian Institute of Public Health (FHI)</p>
 </div>
 
 
 <div class="d-article">
-<p>Description of FHI projects</p>
+<h2 id="sykdomspulsen">Sykdomspulsen</h2>
+<p>I joined the Department of Infectious Diseases Epidemiology and Modeling in October 2020. I work on the real time surveillance system, Sykdomspulsen, which links hundreds of national registries on infectious diseases to inform local municipality doctors on current outbreaks. At this very moment, the most severe outbreak is still Covid-19; in addition we also inform about other respiratory diseases, symptoms and gastrointestinal infections.</p>
+<p>See <a href="https://www.fhi.no/hn/statistikk/sykdomspulsen/sykdomspulsen/">here</a> for the description in Norwegian at the FHI website. Currently we are still improving the documentation with examples in English of Sykdomspulsen. <a href="https://sykdomspulsen-dokumentasjon.no">Here</a> is an working description.</p>
+<h2 id="fhi-packages">FHI packages</h2>
+<p>Our team also develops open-source R packages. Here are a few that I have been working on:</p>
+<ul>
+<li><p><a href="https://github.com/folkehelseinstituttet/fhidata">fhidata</a> provides structural data for Norway including population since 2006, municipality/county/region correspondence, redistribution information. In addition, it also provides population data for the Nordic countries.</p></li>
+<li><p><a href="https://github.com/folkehelseinstituttet/fhimaps">fhimaps</a> provides map data for Norway at bydel (city districts), municipality, county, regional levels.</p></li>
+<li><p><a href="https://github.com/folkehelseinstituttet/fhiplot">fhiplot</a> provide color palettes, plot templates and styles for figures used for reporting.</p></li>
+</ul>
+<p>For a complete list of open-source R packages developed by our team, please see our <a href="https://github.com/folkehelseinstituttet">github</a>.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

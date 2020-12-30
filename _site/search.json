@@ -6,7 +6,7 @@
       "description": "Some additional details about me the website",
       "author": [],
       "contents": "\nMore about me\nI am originally from Xi’an, China. I received my MSc in Statistics from Imperial College London in 2016, then started my PhD at Oslo Center for Biostatistics and Epidemiology, University of Oslo, Norway.\nI have recently (October 2020) joined the Department of Infectious Diseases Epidemiology and Modeling at Norwegian Institute of Public Health (Folkehelseinstittutet) as a researcher. My team works on real time surveillance system, Sykdomspulsen.\nOutside work I enjoy traveling and hiking. Due to the ongoing covid pandemic, I started and became an avid player of the Nintendo game: Animal Crossing New Horizon.\nMore about the site\nThis site is the 2nd version (using distill) since I started using R to build websites, the 1st being blogdown. There are two reasons for switching:\nMy old blogdown site used the famous theme academic, yet I found it overly complicated to have a simple layout.\nThe new package distill only offers one theme, yet I could still change the color and fonts (which are enough!) For simplicity, it is time to switch.\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:47+01:00"
+      "last_modified": "2020-12-30T16:39:03+01:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "PhD student at University of Oslo, researcher at Folkehelseinstituttet\n",
       "author": [],
       "contents": "\nHi! Welcomd to my new website, build in distill.\nI am a researcher at the Department of Infectious Disease Epidemiology and Modeling, Norwegian Institute of Public Health (Folkehelseinstitutte). I mostly work on the development of an open-source health surveillance system, Sykdomspulsen. In addition I maintain and develop several R packages including fhidata, fhimaps, fhiplot.\nIn the meantime I am a PhD student at the Oslo Center for Biostatistics and Epidemiology, University of Oslo, Norway. My PhD work is focused on Electronic Health Records, generated from hospitals in particular. My current research interest is the use of EHR data for patient transfer tracking and visualisation with networks.\nYou can find me on twitter or github.\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:48+01:00"
+      "last_modified": "2020-12-30T16:39:03+01:00"
     },
     {
       "path": "post-2020-12-24-set-up.html",
@@ -23,25 +23,25 @@
       "author": [],
       "date": "12/23/2020",
       "contents": "\nHow the post was set up\nthis is good\nthis is also good\n/this/is/the/stuff\nadd code chunk\n\n\nsummary(cars)\n\n\n\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:48+01:00"
+      "last_modified": "2020-12-30T16:39:04+01:00"
     },
     {
       "path": "project_ehr.html",
       "title": "EHR projects",
-      "description": "This is a brief introduction of my PhD projects on Electronic Health Records",
+      "description": "A brief introduction of my PhD projects on Electronic Health Records",
       "author": [],
       "date": "12/23/2020",
-      "contents": "\nFor my PhD, I work on EHR (Electronic Health Records) data. The data sources …\nNOTE: The content will be filled in soon.\nDTW project\nThis is a project\nPatient transfer project\nHAI project\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:49+01:00"
+      "contents": "\nFor my PhD, I work on EHR (Electronic Health Records) data from hospitals. EHR data can be any types of data that is generated in a healthcare setting: patient vital signs, drugs administered, demographics , billing information and/or images. I have worked on two hospital datasets: the public MIMIC-III database from a hospital in Boston, and a large Norwegian hospital in the greater Oslo area.\nDTW-CP project\nThis projects makes use of the time series data from the MIMIC-III dataset. Temporal EHR data such as physiological vital signs and lab test results are particularly challenging. Temporal EHR features typically have different sampling frequencies; such examples include heart rate (measured almost continuously) and blood test results (a few times during a patient’s entire stay). Different patients also have different length of stays. Existing approaches for temporal EHR sequence extraction either ignore the temporal pattern within features, or use a predefined window to select a section of the sequences without taking into account all the information. We propose a novel approach to tackle the issue of irregularly sampled, unequal length EHR time series using dynamic time warping and tensor decomposition.\nPatient transfer project\nThis projects examines the patient transfer pattern at four departments (gastrointestinal surgical, gastrointestinal medical, orthopaedics, neurologic) over one year. We used network visualisation to identify the movement trajectory of patients and try to identify the similarity and differences.\nHospital acquired infection intervention project\nThis project is largely a simulation based project using hospital acquired infection (HAI) as a case study. The key idea is to identify risk factors that are influential to the outcome, and make a hypothetical change to avert the outcome.\n\n\n\n",
+      "last_modified": "2020-12-30T16:39:04+01:00"
     },
     {
       "path": "project_fhi.html",
-      "title": "Projects Folkehelseinstittutet",
-      "description": "my FHI projects",
+      "title": "FHI projects",
+      "description": "Projects that I work on at the Norwegian Institute of Public Health (FHI)",
       "author": [],
       "date": "12/23/2020",
-      "contents": "\nDescription of FHI projects\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:49+01:00"
+      "contents": "\nSykdomspulsen\nI joined the Department of Infectious Diseases Epidemiology and Modeling in October 2020. I work on the real time surveillance system, Sykdomspulsen, which links hundreds of national registries on infectious diseases to inform local municipality doctors on current outbreaks. At this very moment, the most severe outbreak is still Covid-19; in addition we also inform about other respiratory diseases, symptoms and gastrointestinal infections.\nSee here for the description in Norwegian at the FHI website. Currently we are still improving the documentation with examples in English of Sykdomspulsen. Here is an working description.\nFHI packages\nOur team also develops open-source R packages. Here are a few that I have been working on:\nfhidata provides structural data for Norway including population since 2006, municipality/county/region correspondence, redistribution information. In addition, it also provides population data for the Nordic countries.\nfhimaps provides map data for Norway at bydel (city districts), municipality, county, regional levels.\nfhiplot provide color palettes, plot templates and styles for figures used for reporting.\nFor a complete list of open-source R packages developed by our team, please see our github.\n\n\n\n",
+      "last_modified": "2020-12-30T16:39:05+01:00"
     },
     {
       "path": "publication.html",
@@ -50,7 +50,7 @@
       "author": [],
       "date": "12/23/2020",
       "contents": "\n2020\nFeature extraction from unequal length heterogeneous EHR time series via dynamic time warping and tensor decomposition (In Data Mining and Knowledge Discovery) (To appear)\nChi Zhang, Hadi Fanaee-T, Magne Thoresen\n2018\nA questionnaire using vocal symptoms in quality control of phonosurgery: vocal surgical questionnaire. (In Ear, Nose and Throat Disorders, BMC) (url, doi)\nAleksander Grande Hansen, Chi Zhang, Jens Øyvind Loven, Hanne Berdal-Sørensen, Magnus TarAngen, Rolf Haye\n\n\n\n",
-      "last_modified": "2020-12-24T16:57:50+01:00"
+      "last_modified": "2020-12-30T16:39:05+01:00"
     }
   ],
   "collections": []
