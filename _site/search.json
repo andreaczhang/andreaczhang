@@ -28,20 +28,23 @@
     {
       "path": "project_ehr.html",
       "title": "EHR projects",
-      "description": "This is a brief introduction of my PhD projects on Electronic Health Records",
+      "description": "A brief introduction of my PhD projects on Electronic Health Records",
       "author": [],
       "date": "12/23/2020",
+
       "contents": "\nFor my PhD, I work on EHR (Electronic Health Records) data. The data sources …\nNOTE: The content will be filled in soon.\nDTW project\nThis is a project\nPatient transfer project\nHAI project\n\n\n\n",
       "last_modified": "2021-01-05T12:25:29+01:00"
+      "contents": "\nFor my PhD, I work on EHR (Electronic Health Records) data from hospitals. EHR data can be any types of data that is generated in a healthcare setting: patient vital signs, drugs administered, demographics , billing information and/or images. I have worked on two hospital datasets: the public MIMIC-III database from a hospital in Boston, and a large Norwegian hospital in the greater Oslo area.\nDTW-CP project\nThis projects makes use of the time series data from the MIMIC-III dataset. Temporal EHR data such as physiological vital signs and lab test results are particularly challenging. Temporal EHR features typically have different sampling frequencies; such examples include heart rate (measured almost continuously) and blood test results (a few times during a patient’s entire stay). Different patients also have different length of stays. Existing approaches for temporal EHR sequence extraction either ignore the temporal pattern within features, or use a predefined window to select a section of the sequences without taking into account all the information. We propose a novel approach to tackle the issue of irregularly sampled, unequal length EHR time series using dynamic time warping and tensor decomposition.\nPatient transfer project\nThis projects examines the patient transfer pattern at four departments (gastrointestinal surgical, gastrointestinal medical, orthopaedics, neurologic) over one year. We used network visualisation to identify the movement trajectory of patients and try to identify the similarity and differences.\nHospital acquired infection intervention project\nThis project is largely a simulation based project using hospital acquired infection (HAI) as a case study. The key idea is to identify risk factors that are influential to the outcome, and make a hypothetical change to avert the outcome.\n\n\n\n",
     },
     {
       "path": "project_fhi.html",
-      "title": "Projects Folkehelseinstittutet",
-      "description": "my FHI projects",
+      "title": "FHI projects",
+      "description": "Projects that I work on at the Norwegian Institute of Public Health (FHI)",
       "author": [],
       "date": "12/23/2020",
       "contents": "\nDescription of FHI projects\n\n\n\n",
       "last_modified": "2021-01-05T12:25:29+01:00"
+      "contents": "\nSykdomspulsen\nI joined the Department of Infectious Diseases Epidemiology and Modeling in October 2020. I work on the real time surveillance system, Sykdomspulsen, which links hundreds of national registries on infectious diseases to inform local municipality doctors on current outbreaks. At this very moment, the most severe outbreak is still Covid-19; in addition we also inform about other respiratory diseases, symptoms and gastrointestinal infections.\nSee here for the description in Norwegian at the FHI website. Currently we are still improving the documentation with examples in English of Sykdomspulsen. Here is an working description.\nFHI packages\nOur team also develops open-source R packages. Here are a few that I have been working on:\nfhidata provides structural data for Norway including population since 2006, municipality/county/region correspondence, redistribution information. In addition, it also provides population data for the Nordic countries.\nfhimaps provides map data for Norway at bydel (city districts), municipality, county, regional levels.\nfhiplot provide color palettes, plot templates and styles for figures used for reporting.\nFor a complete list of open-source R packages developed by our team, please see our github.\n\n\n\n",
     },
     {
       "path": "publication.html",
@@ -51,6 +54,7 @@
       "date": "12/23/2020",
       "contents": "\n2020\nFeature extraction from unequal length heterogeneous EHR time series via dynamic time warping and tensor decomposition (In Data Mining and Knowledge Discovery) (url, doi)\nChi Zhang, Hadi Fanaee-T, Magne Thoresen\n2018\nA questionnaire using vocal symptoms in quality control of phonosurgery: vocal surgical questionnaire. (In Ear, Nose and Throat Disorders, BMC) (url, doi)\nAleksander Grande Hansen, Chi Zhang, Jens Øyvind Loven, Hanne Berdal-Sørensen, Magnus TarAngen, Rolf Haye\n\n\n\n",
       "last_modified": "2021-01-05T12:29:45+01:00"
+      "contents": "\n2020\nFeature extraction from unequal length heterogeneous EHR time series via dynamic time warping and tensor decomposition (In Data Mining and Knowledge Discovery) (To appear)\nChi Zhang, Hadi Fanaee-T, Magne Thoresen\n2018\nA questionnaire using vocal symptoms in quality control of phonosurgery: vocal surgical questionnaire. (In Ear, Nose and Throat Disorders, BMC) (url, doi)\nAleksander Grande Hansen, Chi Zhang, Jens Øyvind Loven, Hanne Berdal-Sørensen, Magnus TarAngen, Rolf Haye\n\n\n\n",
     }
   ],
   "collections": []

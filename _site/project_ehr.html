@@ -87,7 +87,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_meta_tags-->
   <title>Chi Zhang: EHR projects</title>
 
-  <meta property="description" itemprop="description" content="This is a brief introduction of my PhD projects on Electronic Health Records"/>
+  <meta property="description" itemprop="description" content="A brief introduction of my PhD projects on Electronic Health Records"/>
 
 
   <!--  https://schema.org/Article -->
@@ -97,20 +97,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Chi Zhang: EHR projects"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="This is a brief introduction of my PhD projects on Electronic Health Records"/>
+  <meta property="og:description" content="A brief introduction of my PhD projects on Electronic Health Records"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Chi Zhang"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
   <meta property="twitter:title" content="Chi Zhang: EHR projects"/>
-  <meta property="twitter:description" content="This is a brief introduction of my PhD projects on Electronic Health Records"/>
+  <meta property="twitter:description" content="A brief introduction of my PhD projects on Electronic Health Records"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date"]}},"value":[{"type":"character","attributes":{},"value":["EHR projects"]},{"type":"character","attributes":{},"value":["This is a brief introduction of my PhD projects on Electronic Health Records"]},{"type":"character","attributes":{},"value":["12/23/2020"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date"]}},"value":[{"type":"character","attributes":{},"value":["EHR projects"]},{"type":"character","attributes":{},"value":["A brief introduction of my PhD projects on Electronic Health Records"]},{"type":"character","attributes":{},"value":["12/23/2020"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2139,7 +2139,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-color:       #FFFFFF;                   /* edited */
     --text-size:        20px;                      /* edited */
     --hover-color:      #383838;                   /* edited */
-    --bkgd-color:       rgb(77, 168, 7);          /* edited */
+    --bkgd-color:       rgb(7, 157, 168);          /* edited */
   }
   .distill-site-footer {
     --text-color:       rgba(255, 255, 255, 0.8);
@@ -2157,13 +2157,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   d-article p code {
     color: #383838;
-    background: rgba(77, 168, 7, 0.1);
+    background: rgba(7, 157, 168, 0.1);
     font-weight: 400;
     font-size: 0.9em;
   }
 
   d-article a {
-      border-bottom: 2px solid rgba(77, 168, 7, 0.4);
+      border-bottom: 2px solid rgba(7, 157, 168, 0.4);
       text-decoration: none;
   }
 
@@ -2172,7 +2172,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   ul > li::marker {
-    color: rgb(77, 168, 7);
+    color: rgb(7, 157, 168);
   }</style>
   <style type="text/css">
   /* base style */
@@ -2338,7 +2338,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"EHR projects","description":"This is a brief introduction of my PhD projects on Electronic Health Records","authors":[],"publishedDate":"2020-12-23T00:00:00.000+00:00"}
+{"title":"EHR projects","description":"A brief introduction of my PhD projects on Electronic Health Records","authors":[],"publishedDate":"2020-12-23T00:00:00.000+00:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2385,17 +2385,18 @@ Projects
 <h1>EHR projects</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>This is a brief introduction of my PhD projects on Electronic Health Records</p>
+<p>A brief introduction of my PhD projects on Electronic Health Records</p>
 </div>
 
 
 <div class="d-article">
-<p>For my PhD, I work on EHR (Electronic Health Records) data. The data sources …</p>
-<p><em>NOTE: The content will be filled in soon.</em></p>
-<h2 id="dtw-project">DTW project</h2>
-<p>This is a project</p>
+<p>For my PhD, I work on EHR (Electronic Health Records) data from hospitals. EHR data can be any types of data that is generated in a healthcare setting: patient vital signs, drugs administered, demographics , billing information and/or images. I have worked on two hospital datasets: the public <a href="https://mimic.physionet.org">MIMIC-III database</a> from a hospital in Boston, and a large Norwegian hospital in the greater Oslo area.</p>
+<h2 id="dtw-cp-project">DTW-CP project</h2>
+<p>This projects makes use of the time series data from the MIMIC-III dataset. Temporal EHR data such as physiological vital signs and lab test results are particularly challenging. Temporal EHR features typically have different sampling frequencies; such examples include heart rate (measured almost continuously) and blood test results (a few times during a patient’s entire stay). Different patients also have different length of stays. Existing approaches for temporal EHR sequence extraction either ignore the temporal pattern within features, or use a predefined window to select a section of the sequences without taking into account all the information. We propose a novel approach to tackle the issue of irregularly sampled, unequal length EHR time series using dynamic time warping and tensor decomposition.</p>
 <h2 id="patient-transfer-project">Patient transfer project</h2>
-<h2 id="hai-project">HAI project</h2>
+<p>This projects examines the patient transfer pattern at four departments (gastrointestinal surgical, gastrointestinal medical, orthopaedics, neurologic) over one year. We used network visualisation to identify the movement trajectory of patients and try to identify the similarity and differences.</p>
+<h2 id="hospital-acquired-infection-intervention-project">Hospital acquired infection intervention project</h2>
+<p>This project is largely a simulation based project using hospital acquired infection (HAI) as a case study. The key idea is to identify risk factors that are influential to the outcome, and make a hypothetical change to avert the outcome.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
