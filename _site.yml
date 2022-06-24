@@ -16,7 +16,7 @@ navbar:
 
     - text: "Projects"
       menu:
-        - text: "EHR"
+        - text: "EHR phd"
           href: project_ehr.html
         - text: "Folkehelseinstituttet"
           href: project_fhi.html
