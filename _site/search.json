@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quarto_blog",
+    "title": "Chi Zhang",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nChi is a researcher at the Norwegian Institute of Public Health (Folkehelseinstituttet). She is a statistician and R programmer at Sykdomspulsen, a real-time analysis and public health surveillance system.\nChi has recently earned her PhD at University of Oslo. Her thesis is Representation and utilization of hospital Electronic Health Records data.\nChi also has a 20% position as a statistical advisor at the Oslo Centre for Biostatistics and Epidemiology (OCBE)."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -23,8 +23,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About this site",
     "section": "",
-    "text": "About this blog"
+    "text": "First edit of Chi’s website"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Try some content"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chi Zhang",
+    "section": "Education",
+    "text": "Education\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics (2022)\nImperial College London | London, UK\nMSc in Statistics (2016)\nUniversity of Liverpool | Liverpool, UK\nBSc in Mathematics with Finance (2014)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects Chi works on"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]

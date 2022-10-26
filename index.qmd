@@ -1,12 +1,42 @@
 ---
-title: "quarto_blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Chi Zhang"
+image: resources/photo_chi.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Andreasheenn
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/andreaczhang
 ---
+
+:::{#hero-heading}
+
+Chi is a researcher at the Norwegian Institute of Public Health (Folkehelseinstituttet). She is a statistician and R programmer at [Sykdomspulsen](https://docs.sykdomspulsen.no), a real-time analysis and public health surveillance system.
+
+Chi has recently earned her PhD at University of Oslo. Her thesis is *Representation and utilization of hospital Electronic Health Records data*.
+
+Chi also has a 20% position as a statistical advisor at the Oslo Centre for Biostatistics and Epidemiology ([OCBE](https://www.med.uio.no/imb/english/research/centres/ocbe/)).
+
+:::
+
+## Education
+
+**University of Oslo \| Oslo, Norway**
+
+PhD in Biostatistics (2022)
+
+**Imperial College London \| London, UK**
+
+MSc in Statistics (2016)
+
+**University of Liverpool \| Liverpool, UK**
+
+BSc in Mathematics with Finance (2014)

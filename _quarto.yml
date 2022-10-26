@@ -2,17 +2,21 @@ project:
   type: website
 
 website:
-  title: "quarto_blog"
+  title: "Chi Zhang"
   navbar:
     right:
-      - about.qmd
+      - text: "About"
+        href: index.html
+      - cv.qmd
+      - projects.qmd
+      - blog.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/andreaczhang
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/Andreasheenn
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
 
 editor: visual
