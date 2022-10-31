@@ -32,7 +32,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Try some content"
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics (2022)\nImperial College London | London, UK\nMSc in Statistics (2016)\nUniversity of Liverpool | Liverpool, UK\nBSc in Mathematics with Finance (2014)"
   },
   {
     "objectID": "index.html#education",
@@ -46,13 +46,34 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects Chi works on"
+    "text": "I joined the Norwegian Institute of Public Health in 2020, as a member of the Sykdomspulsen team. We are a core part of the COVID-19 pandemic response task force in Norway. I help build the real-time public health surveillance platform using R and other open source data science tools. You can find our R packages here.\nIn 2021-2022, I am the responsible statistician for NorMOMO, the Norwegian Mortality Monitoring project, which is part of the European network EuroMOMO. I work on R packages nowcast and splalert."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "FOR NOW IT IS JUST A PLACEHOLDER\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#academic-research",
+    "href": "projects.html#academic-research",
+    "title": "Projects",
+    "section": "Academic Research",
+    "text": "Academic Research\nI have earned my PhD from University of Oslo in 2022. My PhD research was on the representation and utilization of hospital electronic health records data."
+  },
+  {
+    "objectID": "projects.html#advising",
+    "href": "projects.html#advising",
+    "title": "Projects",
+    "section": "Advising",
+    "text": "Advising\nI work as a statistical advisor on the side, helping clinical researchers with methodology and anaysis."
+  },
+  {
+    "objectID": "projects.html#community",
+    "href": "projects.html#community",
+    "title": "Projects",
+    "section": "Community",
+    "text": "Community\nI am an active member of Oslo User R group and Oslo R ladies group.\nIn addition, I am a certified Capentry instructor."
   }
 ]

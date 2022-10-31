@@ -4,4 +4,16 @@ description: |
   Chi works at FHI.
 ---
 
-Try some content 
+## Education
+
+**University of Oslo \| Oslo, Norway**
+
+PhD in Biostatistics (2022)
+
+**Imperial College London \| London, UK**
+
+MSc in Statistics (2016)
+
+**University of Liverpool \| Liverpool, UK**
+
+BSc in Mathematics with Finance (2014)
