@@ -8,6 +8,8 @@ I'm Chi, I am a researcher at the Norwegian Institute of Public Health.
 
 📫 How to reach me: send me a DM on twitter @Andreasheenn or follow me on @andreasheenn@fosstodon.org
 
+My personal website is https://andreaczhang.github.io
+
 <!--
 **andreaczhang/andreaczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
