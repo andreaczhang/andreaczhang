@@ -1,7 +1,0 @@
----
-title: "Projects"
-description: |
-  Some projects.
----
-
-Projects Chi works on
