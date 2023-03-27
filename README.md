@@ -1,10 +1,8 @@
 ### Hi there 👋 
 
-I'm Chi, I am a researcher at the Norwegian Institute of Public Health. 
+I'm Chi, I am a researcher at University of Oslo. Previously I worked at the Norwegian Institute of Public Health.
 
-🔭 I am currently working on CSIDS.
-
-🌱 I am currently learning public health surveillance with R.
+🔭 I am currently working on Nor-Eden, CSIDS, and a few small R projects.
 
 📫 How to reach me: send me a DM on twitter @Andreasheenn or follow me on @andreasheenn@fosstodon.org
 
