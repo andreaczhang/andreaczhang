@@ -2,7 +2,7 @@
 
 I'm Chi, I am a researcher at Dept of Biostatistics and Nutrition, University of Oslo. I'm working towards becoming Research Software Engineer. Previously I worked as R developer and statistician at the Norwegian Institute of Public Health.
 
-🔭 I am currently working on [simmed](https://github.com/andreaczhang/simmed), NorEden, [CSIDS](https://github.com/csids), and a few small R projects.
+🔭 I am currently working on [Data Apothecary's Notes](https://github.com/andreaczhang/data-apothecary-notes), NorEden, [CSIDS](https://github.com/csids), and a few small R projects.
 
 📫 How to reach me: send me a DM on twitter @Andreasheenn or follow me on @andreasheenn@fosstodon.org
 
